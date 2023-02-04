@@ -13,5 +13,4 @@ const App = () => (
     <Redirect to="not-found" />
   </Switch>
 )
-
 export default App
